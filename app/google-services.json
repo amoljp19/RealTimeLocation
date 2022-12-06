@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "723740875334",
+    "firebase_url": "https://realtimelocation-274109.firebaseio.com",
+    "project_id": "realtimelocation-274109",
+    "storage_bucket": "realtimelocation-274109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723740875334:android:035408390b5ada0c438847",
+        "android_client_info": {
+          "package_name": "com.softaai.realtimelocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723740875334-08l7af469v8fcre4k5skj80m3j839h9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softaai.realtimelocation",
+            "certificate_hash": "6924948846b80a149ec8f875398593fedb0f83e6"
+          }
+        },
+        {
+          "client_id": "723740875334-38aibtvfc3qdhiq8fdqho0llo4bs62eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsq2ONl8OEXg9bRGiEUw7tRgzRLxyAylM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723740875334-38aibtvfc3qdhiq8fdqho0llo4bs62eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

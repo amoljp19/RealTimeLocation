@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RealTimeLocation</string>
+    <string name="app_desc">Track other\'s phone location with simple</string>
+    <string name="sign_in_desc">Please sign in or register new account</string>
+    <string name="start">Start</string>
+    <string name="device_id">User Id:</string>
+    <string name="lat_long">Lat/Long:</string>
+    <string name="login">Login</string>
+    <string name="stop">Stop</string>
+    <string name="disconnected">diconnected</string>
+    <string name="fetching">fetching...</string>
+    <string name="profile">Profile</string>
+    <string name="track_location">Track Location</string>
+    <string name="share_location">Share Location</string>
+
+</resources>
